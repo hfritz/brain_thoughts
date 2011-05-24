@@ -5,5 +5,7 @@ Generate data model from a personal brain xml.
 
 Remember to run the following task in order to have all the necessary tables.
 
+rake db:migrate:brain_thoughts
+
 
 Copyright (c) 2011 [Helmut Fritz], released under the MIT license
